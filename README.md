@@ -6,7 +6,7 @@ This is showcases the projects I have created for my computer courses.
 ---
 
 ## 📂 COSC 1436
-- [Final Course Application](COSC1436/FinalCourseApplication)
+- [Final Course Application](https://github.com/MillerPrime/FinalCourseApplicationCOSC1436)
 - [Group Project](COSC1436/GroupProject)
 
 ## 📂 COSC 1437
