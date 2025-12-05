@@ -10,7 +10,7 @@ Welcome to my portfolio for the computer courses I have taken at my community co
 
 ## 📂 COSC 1437
 - [Final Course Application](https://github.com/MillerPrime/FinalCourseApplicationCOSC1437)
-- [Project with Classes](COSC1437/ClassesProject)
+- [Project with Classes](https://github.com/MillerPrime/ProjectWithClasses1437)
 
 ## 📂 COSC 2436
 - [Data Structures - SLO #1](https://github.com/MillerPrime/DataStructuresSLO1)
