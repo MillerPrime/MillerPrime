@@ -13,7 +13,7 @@ Welcome to my portfolio for the computer courses I have taken at my community co
 - [Project with Classes](COSC1437/ClassesProject)
 
 ## 📂 COSC 2436
-- [Data Structures - SLO #1](COSC2436/SLO1_DataStructures)
+- [Data Structures - SLO #1](https://github.com/MillerPrime/DataStructuresSLO1)
 - [Analyze & Select Data Structure - SLO #5](COSC2436/SLO5_AnalyzeSelect)
 - [Implementing Data Structures - SLO #6](COSC2436/SLO6_ImplementingStructures)
 
