@@ -9,7 +9,7 @@ Welcome to my portfolio for the computer courses I have taken at my community co
 - [Group Project](COSC1436/GroupProject)
 
 ## 📂 COSC 1437
-- [Final Course Application](COSC1437/FinalCourseApplication)
+- [Final Course Application](https://github.com/MillerPrime/FinalCourseApplicationCOSC1437)
 - [Project with Classes](COSC1437/ClassesProject)
 
 ## 📂 COSC 2436
