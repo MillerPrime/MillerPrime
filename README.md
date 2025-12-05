@@ -1,6 +1,7 @@
 # Adam's Programming Portfolio
 
-Welcome to my portfolio for the computer courses I have taken at my community college. 
+Welcome to my portfolio.
+This is showcases the projects I have created for my computer courses. 
 
 ---
 
