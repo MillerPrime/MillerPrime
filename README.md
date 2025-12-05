@@ -1,13 +1,13 @@
 # Adam's Programming Portfolio
 
 Welcome to my portfolio.
-This is showcases the projects I have created for my computer courses. 
+This is showcases some of the projects I have created for my computer courses and how much I have grown. 
 
 ---
 
 ## 📂 COSC 1436
 - [Final Course Application](https://github.com/MillerPrime/FinalCourseApplicationCOSC1436)
-- [Group Project](COSC1436/GroupProject)
+- [Group Project](https://github.com/MillerPrime/GroupProjectCOSC1436)
 
 ## 📂 COSC 1437
 - [Final Course Application](https://github.com/MillerPrime/FinalCourseApplicationCOSC1437)
@@ -19,3 +19,5 @@ This is showcases the projects I have created for my computer courses.
 - [Implementing Data Structures - SLO #6](https://github.com/MillerPrime/ImplementingDataStructuresSLO6)
 
 ---
+
+More to come in the future. Stay tuned!
